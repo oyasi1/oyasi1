@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oyasi1
-- 👀 I’m a Front-End Developer
+- 👀 I’m a Fullstack MERN Developer 
 - 💞️ I’m looking to collaborate on cool Stuff
 - 📫 How to reach me 08133285477, oyasifrank@gmail.com
 
